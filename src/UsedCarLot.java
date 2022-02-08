@@ -154,5 +154,6 @@ public class UsedCarLot {
         Car move = inventory.remove(indexOfCarToMove);
         inventory.add(destinationIndex, move);
     }
+    //System.out.println("Homework edit");
 
 }
